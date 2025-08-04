@@ -9,8 +9,6 @@ Esta é a equipe:
  * Fabricio **Bizotto**
  * Everton
  * Julia
-
- 
  
  > 🎈 README.md deve ser o nome do arquivo.
 
